@@ -7,6 +7,6 @@ https://www.inflearn.com/course/%EC%95%88%EB%93%9C%EB%A1%9C%EC%9D%B4%EB%93%9C-%E
 
 
 <div>
-<img src="https://user-images.githubusercontent.com/66731780/189266231-f727f9f7-4ef4-45f3-bec6-75ba48ca02a3.png" width="300" height="600"/>
-<img src="https://user-images.githubusercontent.com/66731780/189266319-c64d5ec2-0cb0-48f0-849d-99388ca40ec1.png" width="300" height="600"/>
+<img src="https://user-images.githubusercontent.com/66731780/190177288-b18d3b11-427c-4114-bde2-98e32dae2314.png" width="300" height="600"/>
+<img src="https://user-images.githubusercontent.com/66731780/190177312-a311d300-109c-4000-b19d-832925a067a9.png" width="300" height="600"/>
 </div>
